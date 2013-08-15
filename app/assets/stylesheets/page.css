@@ -1,0 +1,9 @@
+.pure-g-r > div {
+    box-sizing: border-box; 
+}
+.sidebar {
+    padding: 0.7em; 
+}
+.main {
+    padding: 0.75em 0.6em; 
+}
